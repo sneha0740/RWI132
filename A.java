@@ -1,8 +1,8 @@
-package com.sathya.a;
+package com.sathya.a1;
 
 public class A {
-      public void disp()
-      {
-    	  System.out.println("this is a class A with disp method");
-      }
+	 public void status()
+     {
+   	  System.out.println("this is a class A with status method");
+     }
 }
